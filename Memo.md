@@ -168,11 +168,11 @@ C: 测试参数的有效性比较简单，测试模型的有效性会比较困�
 
 [矩阵色阶权重图绘制，从7:00开始看]([https://www.bilibili.com/video/BV1c5411W7U9](https://www.bilibili.com/video/BV1c5411W7U9))
 
-![矩阵权重图](img\矩阵权重图.png)
+![矩阵权重图](img/矩阵权重图.png)
 
 ### 折线图
 
-![折线图](img\折线图.jpg)
+![折线图](img/折线图.jpg)
 
 推荐是写入csv文件中，然后转成xlsx，再绘图。
 

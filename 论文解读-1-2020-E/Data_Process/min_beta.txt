@@ -1,0 +1,25 @@
+2016: the minimum beta is 0.251, AW_s is 93462227.99, AW_o is 247494672.06 and Pull is 271892648069.36. The error is 0.1005
+ the origin beta is 0.359, AW_s is 133677051.19, AW_o is 247494672.06 and Pull is 301665420189.79
+2017: the minimum beta is 0.251, AW_s is 96595060.13, AW_o is 257228001.34 and Pull is 265641116211.93. The error is 0.1017
+ the origin beta is 0.359, AW_s is 138157874.84, AW_o is 257228001.34 and Pull is 295098215673.08
+2018: the minimum beta is 0.253, AW_s is 100575454.78, 
+AW_o is 267170283.33 and Pull is 259939748588.07. The error is 0.1010
+ the origin beta is 0.359, AW_s is 142713787.61, AW_o is 267170283.33 and Pull is 288542125894.16
+2019: the minimum beta is 0.255, AW_s is 104659947.96, 
+AW_o is 277321518.01 and Pull is 254237765545.32. The error is 0.1003
+ the origin beta is 0.359, AW_s is 147344789.48, AW_o is 277321518.01 and Pull is 281997684039.32
+2020: the minimum beta is 0.255, AW_s is 108002714.53, 
+AW_o is 287681705.39 and Pull is 248007571996.92. The error is 0.1016
+ the origin beta is 0.359, AW_s is 152050880.46, AW_o is 287681705.39 and Pull is 275465293367.35
+2021: the minimum beta is 0.257, AW_s is 112272533.60, 
+AW_o is 298250845.47 and Pull is 242311372345.46. The error is 0.1010
+ the origin beta is 0.359, AW_s is 156832060.55, AW_o is 298250845.47 and Pull is 268945257286.67
+2022: the minimum beta is 0.259, AW_s is 116649797.78, 
+AW_o is 309028938.25 and Pull is 236615583664.83. The error is 0.1004
+ the origin beta is 0.359, AW_s is 161688329.74, AW_o is 309028938.25 and Pull is 262437802761.74
+2023: the minimum beta is 0.259, AW_s is 120207518.67, 
+AW_o is 320015983.73 and Pull is 230409742137.02. The error is 0.1018
+ the origin beta is 0.359, AW_s is 166619688.05, AW_o is 320015983.73 and Pull is 255943098440.12
+2024: the minimum beta is 0.261, AW_s is 124775546.95, 
+AW_o is 331211981.90 and Pull is 224721106810.48. The error is 0.1012
+ the origin beta is 0.359, AW_s is 171626135.46, AW_o is 331211981.90 and Pull is 249461268628.56

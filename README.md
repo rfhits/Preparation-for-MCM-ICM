@@ -16,6 +16,8 @@
 
 Python
 
+Excel
+
 [SPSS](https://www.zhihu.com/question/49558483/answer/1605512600)
 
 ### 云端
